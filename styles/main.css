@@ -1,0 +1,13 @@
+main {
+  display: grid;
+  grid-template-columns: minmax(500px, 50%) minmax(500px, 50%);
+  grid-column: 2 / 2;
+  border:1px solid  #424242;
+  grid-gap: 10p;
+
+}
+
+.articulo {
+  padding: 1rem;
+  box-sizing: border-box;
+}

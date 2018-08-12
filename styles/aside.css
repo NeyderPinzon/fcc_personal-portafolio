@@ -1,0 +1,23 @@
+aside {
+grid-column: 1 / 1;
+background: var(--aside);
+  
+}
+aside h1 {
+  position: relative;
+  display: inline-block;
+  left: 30px;
+  padding: 0;
+  margin: 1.5rem 0;
+
+}
+aside img {
+  position: relative;
+  left: 30px;
+
+}
+aside p {
+  position: relative;
+  left: 30px;
+  width: 200px;
+}
